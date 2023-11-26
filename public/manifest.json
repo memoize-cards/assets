@@ -1,0 +1,37 @@
+{
+  "name": "Memoize",
+	"short_name" : "Memoize",
+  "description": "An advanced flashcard application designed to optimize the learning and memorization process",
+	"display" : "standalone",
+  "orientation" : "portrait",
+	"url" : "https://memoize.cards",
+	"scope" : "/",
+  "id": "/?source=pwa",
+	"start_url" : "/?utm_source=pwa",
+	"theme_color" : "#fafafa",
+	"background_color" : "#fafafa",
+	"icons" : [
+    {
+      "src": "memoize_512w.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "memoize_512w.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    },
+    {
+      "src": "memoize_192w.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "memoize_64w.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    }
+  ]
+}
