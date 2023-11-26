@@ -12,24 +12,24 @@
 	"background_color" : "#fafafa",
 	"icons" : [
     {
-      "src": "memoize_512w.png",
+      "src": "https://assets.memoize.cards/memoize_512w.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any"
     },
     {
-      "src": "memoize_512w.png",
+      "src": "https://assets.memoize.cards/memoize_512w.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "maskable"
     },
     {
-      "src": "memoize_192w.png",
+      "src": "https://assets.memoize.cards/memoize_192w.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "memoize_64w.png",
+      "src": "https://assets.memoize.cards/memoize_64w.png",
       "type": "image/png",
       "sizes": "64x64"
     }
