@@ -4,7 +4,7 @@
   "description": "An advanced flashcard application designed to optimize the learning and memorization process",
 	"display" : "standalone",
   "orientation" : "portrait",
-	"url" : "https://memoize.cards",
+	"url" : "https://memoize-io.demgoncalves.workers.dev",
 	"scope" : "/",
   "id": "/?source=pwa",
 	"start_url" : "/?utm_source=pwa",
